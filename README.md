@@ -68,6 +68,6 @@ Application web complète avec modèle de données, API REST, moteur de template
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Denis12306-181717?style=flat-square&logo=github)](https://github.com/Denis12306)
-https://www.linkedin.com/in/denis-gavaud-879721399/?skipRedirect=true
+[!https://www.linkedin.com/in/denis-gavaud-879721399/?skipRedirect=true]
 
 </div>
