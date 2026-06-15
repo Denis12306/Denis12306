@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/28956487/README.md)
 <div align="center">
 
 # Denis
@@ -68,6 +69,6 @@ Application web complète avec modèle de données, API REST, moteur de template
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Denis12306-181717?style=flat-square&logo=github)](https://github.com/Denis12306)
-[!https://www.linkedin.com/in/denis-gavaud-879721399/?skipRedirect=true]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Gavaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-gavaud-879721399/)
 
 </div>
